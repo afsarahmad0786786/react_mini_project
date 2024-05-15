@@ -1,0 +1,41 @@
+.login-form form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.label,
+input,
+button {
+    width: 100%;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+}
+
+.form-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-actions button {
+    margin-right: 10px;
+    /* Adds spacing to the right of each button */
+}
+
+.form-actions button:last-child {
+    margin-right: 0;
+    /* Removes the spacing on the right of the last button */
+}
+
+.login-form-container {
+    padding: 90px;
+    /* Add padding to create space between the header and the form */
+}

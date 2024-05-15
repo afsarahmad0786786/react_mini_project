@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Arrow_Right@1.5x</title>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide_1" transform="translate(-63, -1462)">
+            <g id="Arrow_Right" transform="translate(73.5, 1472.5) scale(-1, 1) translate(-73.5, -1472.5)translate(63, 1462)">
+                <rect id="Rectangle-Copy-14" fill="#D8D8D8" opacity="0" x="0" y="0" width="21" height="21"></rect>
+                <path d="M12.4610751,14.9300852 L8.1710751,10.4500852 C8.0510751,10.3000852 7.9910751,10.1600852 8.0010751,10.0400852 C8.0010751,9.9200852 8.0510751,9.7600852 8.1510751,9.6500852 L12.4410751,5.1700852 C12.6610751,4.9500852 13.0110751,4.9400852 13.2410751,5.1600852 C13.4610751,5.3700852 13.4710751,5.7300852 13.2510751,5.9500852 L9.3410751,10.0400852 L13.2710751,14.1500852 C13.4910751,14.3700852 13.4810751,14.7300852 13.2610751,14.9500852 C13.0310751,15.1600852 12.6810751,15.1500852 12.4610751,14.9300852 Z" id="Fill-312" fill="#22272C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

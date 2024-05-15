@@ -1,0 +1,45 @@
+.card {
+    position: relative;
+    /* Ensures tooltip aligns relative to the card */
+    /* Other styles */
+}
+
+.title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.title:hover::after {
+    content: attr(data-title);
+    position: absolute;
+    white-space: normal;
+    width: max-content;
+    /* Or a specific width if you want to limit it */
+    left: 0;
+    /* Align left edge with the title */
+    top: 60%;
+    /* Below the title */
+    padding: 2px 4px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 1000;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.notification-icon {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 54%;
+    color: white;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    position: relative;
+    top: 7px;
+    /* Adjust as per your design */
+    right: 20px;
+    /* Adjust as per your design */
+}

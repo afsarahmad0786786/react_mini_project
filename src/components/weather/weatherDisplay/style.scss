@@ -1,0 +1,31 @@
+.weather-display {
+    background-color: #e4990d;
+    border-radius: 10px;
+    padding: 110px 110px 110px 150px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 570px;
+    margin-left: 295px;
+    border: 6px solid;
+
+}
+
+.weather-display h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.weather-display p {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.weather-display .weather-icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.weather-display .temperature {
+    font-size: 20px;
+    font-weight: bold;
+}

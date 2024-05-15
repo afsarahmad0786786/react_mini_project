@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Add@1.5x</title>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide_1" transform="translate(-180, -1462)">
+            <g id="Add" transform="translate(180, 1462)">
+                <rect id="Rectangle-Copy-14" fill="#D8D8D8" opacity="0" x="0" y="0" width="21" height="21"></rect>
+                <g id="+" transform="translate(4, 4)" fill="#000000" fill-rule="nonzero">
+                    <path d="M13,6.49968719 C13,6.77468681 12.7749996,6.99968719 12.5,6.99968719 L7,6.99968719 L7,12.4996872 C7,12.776062 6.77637482,13 6.5,13 C6.22362518,13 6,12.7746868 6,12.4996872 L6,6.99968719 L0.5,6.99968719 C0.223625183,6.99968719 0,6.77624989 0,6.5 C0,6.2246871 0.223750114,5.99968719 0.5,5.99968719 L6,5.99968719 L6,0.499687195 C6,0.223312378 6.22362518,0 6.5,0 C6.77637482,0 7,0.223437309 7,0.499687195 L7,5.99968719 L12.5,5.99968719 C12.7749996,5.99968719 13,6.2246871 13,6.49968719 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
